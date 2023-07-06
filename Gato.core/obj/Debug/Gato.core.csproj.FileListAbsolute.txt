@@ -1,0 +1,6 @@
+C:\Users\jose_\source\repos\Gato_Routing\Gato.core\bin\Debug\Gato.core.dll
+C:\Users\jose_\source\repos\Gato_Routing\Gato.core\bin\Debug\Gato.core.pdb
+C:\Users\jose_\source\repos\Gato_Routing\Gato.core\obj\Debug\Gato.core.csproj.AssemblyReference.cache
+C:\Users\jose_\source\repos\Gato_Routing\Gato.core\obj\Debug\Gato.core.csproj.CoreCompileInputs.cache
+C:\Users\jose_\source\repos\Gato_Routing\Gato.core\obj\Debug\Gato.core.dll
+C:\Users\jose_\source\repos\Gato_Routing\Gato.core\obj\Debug\Gato.core.pdb

@@ -1,0 +1,11 @@
+C:\Users\jose_\source\repos\Gato_Routing\Gato.server\bin\Debug\Gato.server.exe.config
+C:\Users\jose_\source\repos\Gato_Routing\Gato.server\bin\Debug\Gato.server.exe
+C:\Users\jose_\source\repos\Gato_Routing\Gato.server\bin\Debug\Gato.server.pdb
+C:\Users\jose_\source\repos\Gato_Routing\Gato.server\bin\Debug\Gato.core.dll
+C:\Users\jose_\source\repos\Gato_Routing\Gato.server\bin\Debug\Gato.core.pdb
+C:\Users\jose_\source\repos\Gato_Routing\Gato.server\obj\Debug\Gato.server.csproj.AssemblyReference.cache
+C:\Users\jose_\source\repos\Gato_Routing\Gato.server\obj\Debug\Gato.server.csproj.SuggestedBindingRedirects.cache
+C:\Users\jose_\source\repos\Gato_Routing\Gato.server\obj\Debug\Gato.server.csproj.CoreCompileInputs.cache
+C:\Users\jose_\source\repos\Gato_Routing\Gato.server\obj\Debug\Gato.server.csproj.CopyComplete
+C:\Users\jose_\source\repos\Gato_Routing\Gato.server\obj\Debug\Gato.server.exe
+C:\Users\jose_\source\repos\Gato_Routing\Gato.server\obj\Debug\Gato.server.pdb
